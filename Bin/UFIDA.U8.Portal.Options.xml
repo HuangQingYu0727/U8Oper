@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Options>
+  <Logo>
+    <Item Id="LoginLogo001" ImagePath="\icons\Logo\" ImageName="dfe5c097-046f-4bf2-9f50-d1fdabd8ea15.png" Ufts="9.4817" LocaleID="zh-cn" IsDefault="True" />
+    <Item Id="LoginBottom001" ImagePath="\icons\Logo\" ImageName="562286c1-9b88-4b0e-994d-0da8a60baf1a.png" Ufts="9.4815" LocaleID="zh-cn" IsDefault="True" LinkAddress="" />
+    <Item Id="LoginTitle001" ImagePath="\icons\Logo\" ImageName="e81236ab-ad26-4adf-b9ba-d7edf7c4be52.ico" Ufts="9.4819" LocaleID="zh-cn" IsDefault="True" />
+    <Item Id="MainLogo001" ImagePath="\icons\Logo\" ImageName="92b50de2-cf02-4562-9e0e-6fb64412ca67.png" Ufts="9.4821" LocaleID="zh-cn" IsDefault="True" />
+    <Item Id="UISkipLogo001" ImagePath="\icons\Logo\" ImageName="6d394183-ca7e-4744-8c3f-4a24c62e21b1.png" Ufts="9.4825" LocaleID="zh-cn" IsDefault="True" />
+    <Item Id="UISkipBottom001" ImagePath="\icons\Logo\" ImageName="48718af3-f22f-4563-af38-5780559648bf.png" Ufts="9.4823" LocaleID="zh-cn" IsDefault="True" />
+    <Item Id="BSLoginLogo001" ImagePath="\U8SL\ClientBin\Icons\Logo\" ImageName="86dfb2c1-78fb-4fe9-ad01-0ee2db727f3c.png" Ufts="9.4813" LocaleID="zh-cn" IsDefault="True" />
+    <Item Id="BSLoginBottom001" ImagePath="\U8SL\ClientBin\Icons\Logo\" ImageName="cbbae1da-6692-4c8b-a6ce-570a651ec882.png" Ufts="9.4811" LocaleID="zh-cn" IsDefault="True" />
+    <Item Id="LoginLogo001" ImagePath="\icons\Logo\" ImageName="LoginLogo.png" Ufts="0" LocaleID="en-us" IsDefault="True" />
+    <Item Id="LoginBottom001" ImagePath="\icons\Logo\" ImageName="LoginBottom.png" Ufts="0" LocaleID="en-us" IsDefault="True" LinkAddress="" />
+    <Item Id="LoginTitle001" ImagePath="\icons\Logo\" ImageName="LoginTitle.png" Ufts="0" LocaleID="en-us" IsDefault="True" />
+    <Item Id="MainLogo001" ImagePath="\icons\Logo\" ImageName="MainLogo.png" Ufts="0" LocaleID="en-us" IsDefault="True" />
+    <Item Id="UISkipLogo001" ImagePath="\icons\Logo\" ImageName="UISkipLogo.png" Ufts="0" LocaleID="en-us" IsDefault="True" />
+    <Item Id="UISkipBottom001" ImagePath="\icons\Logo\" ImageName="UISkipBottom.png" Ufts="0" LocaleID="en-us" IsDefault="True" />
+    <Item Id="BSLoginLogo001" ImagePath="\U8SL\ClientBin\Icons\Logo\" ImageName="BSLoginLogo.png" Ufts="0" LocaleID="en-us" IsDefault="True" />
+    <Item Id="BSLoginBottom001" ImagePath="\U8SL\ClientBin\Icons\Logo\" ImageName="BSLoginBottom.png" Ufts="0" LocaleID="en-us" IsDefault="True" />
+    <Item Id="LoginLogo001" ImagePath="\icons\Logo\" ImageName="LoginLogo.png" Ufts="0" LocaleID="zh-tw" IsDefault="True" />
+    <Item Id="LoginBottom001" ImagePath="\icons\Logo\" ImageName="LoginBottom.png" Ufts="0" LocaleID="zh-tw" IsDefault="True" LinkAddress="" />
+    <Item Id="LoginTitle001" ImagePath="\icons\Logo\" ImageName="LoginTitle.png" Ufts="0" LocaleID="zh-tw" IsDefault="True" />
+    <Item Id="MainLogo001" ImagePath="\icons\Logo\" ImageName="MainLogo.png" Ufts="0" LocaleID="zh-tw" IsDefault="True" />
+    <Item Id="UISkipLogo001" ImagePath="\icons\Logo\" ImageName="UISkipLogo.png" Ufts="0" LocaleID="zh-tw" IsDefault="True" />
+    <Item Id="UISkipBottom001" ImagePath="\icons\Logo\" ImageName="UISkipBottom.png" Ufts="0" LocaleID="zh-tw" IsDefault="True" />
+    <Item Id="BSLoginLogo001" ImagePath="\U8SL\ClientBin\Icons\Logo\" ImageName="BSLoginLogo.png" Ufts="0" LocaleID="zh-tw" IsDefault="True" />
+    <Item Id="BSLoginBottom001" ImagePath="\U8SL\ClientBin\Icons\Logo\" ImageName="BSLoginBottom.png" Ufts="0" LocaleID="zh-tw" IsDefault="True" />
+  </Logo>
+  <Option>
+    <!-- 1:true 0:false-->
+    <Item Id="LastLogin" DefaultValue="1" />
+    <!-- 1:true 0:false-->
+    <Item Id="LoginIM" DefaultValue="0" />
+    <!-- 1:true 0:false-->
+    <Item Id="CommonlyUsed" DefaultValue="1" />
+    <!-- 1:true 0:false-->
+    <Item Id="MessageTask" DefaultValue="0" />
+    <!-- 手工输入：False 格式化输入：True-->
+    <Item Id="InputDate" DefaultValue="True" />
+    <!-- 单位：毫秒-->
+    <Item Id="RefreshMessagePeriod" DefaultValue="600000" />
+    <!-- 时间单位：秒-->
+    <Item Id="PortalAutoLockInterval" DefaultValue="0" />
+    <!-- 1:true 0:false-->
+    <Item Id="ShowFloatForm" DefaultValue="1" />
+    <!-- 1:true 0:false-->
+    <Item Id="PlayVoice" DefaultValue="0" />
+    <Item Id="OperationNumber" DefaultValue="20" />
+  </Option>
+</Options>
